@@ -22,8 +22,6 @@ I would like to thank Dr. Angela Yu.
 
 ![Screenshot 2023-10-24 132656](https://github.com/Sookchand/Turtle-Race-Python-Game-/assets/34344439/833ce529-a2a4-4070-ae98-6511334d85db)
 
-
-
 ## Tech Stack
 The technologies used in this code are:
 
